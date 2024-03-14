@@ -29,3 +29,7 @@
 5. Implement caching (Save frequently used data to speed up responses).
 6. Implement connection pooling (Reuse existing database connections to save time and resources).
 
+# Principles:
+
+1. DRY (Don't repeat yourself)
+2. KISS (Keep it simple stupid)
